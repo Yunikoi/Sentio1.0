@@ -1,7 +1,3 @@
-这份 README 是专为你的 **Sentio (ElderlyMonitor)** 项目设计的。它涵盖了你目前已经实现的非侵入式情绪/跌倒检测、Firebase 实时通信以及 GPS 定位功能。
-
----
-
 # Sentio (ElderlyMonitor) 
 **基于 React Native 的远程高龄者居家监护与情绪感知系统**
 
